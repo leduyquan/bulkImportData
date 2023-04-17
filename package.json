@@ -1,0 +1,24 @@
+{
+  "name": "BulkDataUpload",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.7.5",
+    "core-js": "^2.6.5",
+    "libphonenumber-js": "^1.10.26",
+    "lodash": "^4.17.21",
+    "uuidv4": "^6.2.13",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-service": "^3.11.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
